@@ -1,0 +1,1376 @@
+{
+  "title": "Полный тест по истории России (обновлённый)",
+  "description": "Комплексный тест по ключевым датам, событиям, реформам и терминам из прикреплённой хронологии и словаря. Вопросы охватывают период от призвания варягов до распада СССР и основные термины.",
+  "questions": [
+    {
+      "question": "Что произошло в 862 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Призвание варягов", "correct": true },
+        { "text": "Принятие христианства", "correct": false },
+        { "text": "Куликовская битва", "correct": false },
+        { "text": "Стояние на Угре", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 882 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Объединение Киева и Новгорода", "correct": true },
+        { "text": "Поход Олега на Царьград", "correct": false },
+        { "text": "Первое упоминание Москвы", "correct": false },
+        { "text": "Битва на Калке", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 907 и 911 годах?",
+      "multiple": false,
+      "answers": [
+        { "text": "Походы Олега на Царьград", "correct": true },
+        { "text": "Походы Батыя", "correct": false },
+        { "text": "Невская битва", "correct": false },
+        { "text": "Ледовое побоище", "correct": false }
+      ]
+    },
+    {
+      "question": "В каком году Русь приняла христианство?",
+      "multiple": false,
+      "answers": [
+        { "text": "988", "correct": true },
+        { "text": "911", "correct": false },
+        { "text": "1097", "correct": false },
+        { "text": "1147", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1097 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Любечский съезд", "correct": true },
+        { "text": "Первое упоминание Москвы", "correct": false },
+        { "text": "Куликовская битва", "correct": false },
+        { "text": "Невская битва", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1147 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Первое упоминание Москвы в летописи", "correct": true },
+        { "text": "Любечский съезд", "correct": false },
+        { "text": "Принятие христианства", "correct": false },
+        { "text": "Стояние на Угре", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1223 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Битва на реке Калке", "correct": true },
+        { "text": "Ледовое побоище", "correct": false },
+        { "text": "Невская битва", "correct": false },
+        { "text": "Куликовская битва", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие события относятся к 1237–1240 годам?",
+      "multiple": true,
+      "answers": [
+        { "text": "Походы Батыя на Северо-Восточную Русь (1237–1238)", "correct": true },
+        { "text": "Походы Батыя на Юго-Западную Русь (1239–1240)", "correct": true },
+        { "text": "Невская битва", "correct": false },
+        { "text": "Куликовская битва", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в марте 1238 года?",
+      "multiple": false,
+      "answers": [
+        { "text": "Битва на реке Сити", "correct": true },
+        { "text": "Невская битва", "correct": false },
+        { "text": "Ледовое побоище", "correct": false },
+        { "text": "Куликовская битва", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1240 году?",
+      "multiple": true,
+      "answers": [
+        { "text": "Невская битва", "correct": true },
+        { "text": "Походы Батыя на Юго-Западную Русь (1239–1240)", "correct": true },
+        { "text": "Ледовое побоище", "correct": false },
+        { "text": "Куликовская битва", "correct": false }
+      ]
+    },
+    {
+      "question": "Когда произошло Ледовое побоище?",
+      "multiple": false,
+      "answers": [
+        { "text": "1242, 5 апреля", "correct": true },
+        { "text": "1380", "correct": false },
+        { "text": "1223", "correct": false },
+        { "text": "1709", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1380 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Куликовская битва", "correct": true },
+        { "text": "Стояние на Угре", "correct": false },
+        { "text": "Невская битва", "correct": false },
+        { "text": "Полтавская битва", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1480 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Стояние на реке Угре", "correct": true },
+        { "text": "Куликовская битва", "correct": false },
+        { "text": "Принятие христианства", "correct": false },
+        { "text": "Ледовое побоище", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1497 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Издание Судебника Ивана III", "correct": true },
+        { "text": "Издание Судебника Ивана Грозного", "correct": false },
+        { "text": "Стоглавый собор", "correct": false },
+        { "text": "Опричнина", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1550 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Издание Судебника Ивана Грозного", "correct": true },
+        { "text": "Издание Судебника Ивана III", "correct": false },
+        { "text": "Стоглавый собор", "correct": false },
+        { "text": "Табель о рангах", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1551 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Стоглавый собор", "correct": true },
+        { "text": "Издание Судебника", "correct": false },
+        { "text": "Опричнина", "correct": false },
+        { "text": "Соборное уложение", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое Опричнина и когда она была?",
+      "multiple": false,
+      "answers": [
+        { "text": "Политика Ивана Грозного с чрезвычайными мерами (1565–1572 гг.)", "correct": true },
+        { "text": "Реформа Петра I", "correct": false },
+        { "text": "Реформа Столыпина", "correct": false },
+        { "text": "Начало НЭПа", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие годы охватывает Смутное время?",
+      "multiple": false,
+      "answers": [
+        { "text": "1598–1613 гг.", "correct": true },
+        { "text": "1613–1649 гг.", "correct": false },
+        { "text": "1550–1560 гг.", "correct": false },
+        { "text": "1700–1721 гг.", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1611 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Первое ополчение в Рязани", "correct": true },
+        { "text": "Избрание Михаила Романова", "correct": false },
+        { "text": "Второе ополчение в Нижнем Новгороде", "correct": false },
+        { "text": "Начало Смутного времени", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1611–1612 годах?",
+      "multiple": false,
+      "answers": [
+        { "text": "Второе ополчение (Нижний Новгород, Минин и Пожарский)", "correct": true },
+        { "text": "Первое ополчение в Рязани", "correct": false },
+        { "text": "Избрание Михаила Романова", "correct": false },
+        { "text": "Стояние на Угре", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1613 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Избрание Михаила Романова на царство", "correct": true },
+        { "text": "Начало Смутного времени", "correct": false },
+        { "text": "Отмена крепостного права", "correct": false },
+        { "text": "Создание СССР", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое Соборное уложение и когда оно принято?",
+      "multiple": false,
+      "answers": [
+        { "text": "Свод законов 1649 года", "correct": true },
+        { "text": "Реформа Никона 1652–1656 гг.", "correct": false },
+        { "text": "Табель о рангах 1722 г.", "correct": false },
+        { "text": "Свод законов 1832 г.", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие реформы связаны с Никоном и когда они происходили?",
+      "multiple": false,
+      "answers": [
+        { "text": "Реформы Никона 1652–1656 гг.", "correct": true },
+        { "text": "Реформы Столыпина 1906–1911 гг.", "correct": false },
+        { "text": "Реформы 1864 г.", "correct": false },
+        { "text": "Реформы 1928 г.", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1700–1721 годах?",
+      "multiple": false,
+      "answers": [
+        { "text": "Северная война (Россия со Швецией)", "correct": true },
+        { "text": "Война с Наполеоном", "correct": false },
+        { "text": "Первая мировая война", "correct": false },
+        { "text": "Гражданская война", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1709 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Полтавская битва", "correct": true },
+        { "text": "Куликовская битва", "correct": false },
+        { "text": "Невская битва", "correct": false },
+        { "text": "Ледовое побоище", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1721 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Провозглашение Петра I императором", "correct": true },
+        { "text": "Принятие Табеля о рангах", "correct": false },
+        { "text": "Издание Судебника", "correct": false },
+        { "text": "Создание Государственной думы", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1722 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Принята Табель о рангах", "correct": true },
+        { "text": "Провозглашение Петра I императором", "correct": false },
+        { "text": "Издание Судебника", "correct": false },
+        { "text": "Начало НЭПа", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1785 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Изданы Жалованные грамоты дворянству и городам", "correct": true },
+        { "text": "Издан указ о престолонаследии", "correct": false },
+        { "text": "Указ о вольных хлебопашцах", "correct": false },
+        { "text": "Создание СЭВ", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1797 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Издан указ о престолонаследии", "correct": true },
+        { "text": "Изданы Жалованные грамоты", "correct": false },
+        { "text": "Отмена крепостного права", "correct": false },
+        { "text": "Создание НАТО", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1803 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Указ о вольных хлебопашцах", "correct": true },
+        { "text": "Отмена крепостного права", "correct": false },
+        { "text": "Создание Совнархозов", "correct": false },
+        { "text": "Начало НЭПа", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1812 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Отечественная война 1812 года (с Наполеоном)", "correct": true },
+        { "text": "Первая мировая война", "correct": false },
+        { "text": "Русско-японская война", "correct": false },
+        { "text": "Вторая мировая война", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло 14 декабря 1825 года?",
+      "multiple": false,
+      "answers": [
+        { "text": "Восстание декабристов (Сенатская площадь)", "correct": true },
+        { "text": "Кровавое воскресенье", "correct": false },
+        { "text": "Февральская революция", "correct": false },
+        { "text": "Начало НЭПа", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1832 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Создан свод законов Российской империи", "correct": true },
+        { "text": "Начало индустриализации", "correct": false },
+        { "text": "Отмена крепостного права", "correct": false },
+        { "text": "Создание СССР", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло 19 февраля 1861 года?",
+      "multiple": false,
+      "answers": [
+        { "text": "Манифест об отмене крепостного права", "correct": true },
+        { "text": "Начало НЭПа", "correct": false },
+        { "text": "Создание Государственной думы", "correct": false },
+        { "text": "Реформа Столыпина", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие реформы произошли в 1863–1864 годах?",
+      "multiple": true,
+      "answers": [
+        { "text": "Новый университетский устав (1863) — автономия вузов", "correct": true },
+        { "text": "Начало финансовой реформы (1863)", "correct": true },
+        { "text": "Земская, судебная и образовательная реформы (1864)", "correct": true },
+        { "text": "Отмена крепостного права (1861)", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1870 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Городская реформа", "correct": true },
+        { "text": "Военная реформа", "correct": false },
+        { "text": "Земская реформа", "correct": false },
+        { "text": "Создание Совнархозов", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1874 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Военная реформа (введение всеобщей воинской повинности)", "correct": true },
+        { "text": "Городская реформа", "correct": false },
+        { "text": "Земская реформа", "correct": false },
+        { "text": "Создание Государственной думы", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1881 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Манифест о незыблемости самодержавия", "correct": true },
+        { "text": "Создание ОВД", "correct": false },
+        { "text": "Начало НЭПа", "correct": false },
+        { "text": "Издание Судебника", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1887 году (циркуляр Делянова)?",
+      "multiple": false,
+      "answers": [
+        { "text": "Циркуляр о \"кухаркиных детях\" (ограничение доступа к образованию для низших слоёв)", "correct": true },
+        { "text": "Создание Союза борьбы за освобождение рабочего класса", "correct": false },
+        { "text": "Ходынская трагедия", "correct": false },
+        { "text": "Денежная реформа Витте", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1895 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Появление Союза борьбы за освобождение рабочего класса", "correct": true },
+        { "text": "Ходынская трагедия", "correct": false },
+        { "text": "Денежная реформа Витте", "correct": false },
+        { "text": "Нападение на Порт-Артур", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1896 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Ходынская трагедия", "correct": true },
+        { "text": "Денежная реформа Витте", "correct": false },
+        { "text": "Создание Союза борьбы за освобождение рабочего класса", "correct": false },
+        { "text": "Первая русская революция", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1897 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Денежная реформа Витте, введён золотой стандарт рубля", "correct": true },
+        { "text": "Ходынская трагедия", "correct": false },
+        { "text": "Появление Союза борьбы за освобождение рабочего класса", "correct": false },
+        { "text": "Нападение на Порт-Артур", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1904–1905 годах (внешнеполитическое событие)?",
+      "multiple": false,
+      "answers": [
+        { "text": "Нападение японцев на Порт-Артур (Русско-японская война)", "correct": true },
+        { "text": "Первая мировая война", "correct": false },
+        { "text": "Первая русская революция", "correct": false },
+        { "text": "Кровавое воскресенье", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие события относятся к 1905 году?",
+      "multiple": true,
+      "answers": [
+        { "text": "Кровавое воскресенье (9 января 1905 г.)", "correct": true },
+        { "text": "Первая русская революция (1905–1907 гг.)", "correct": true },
+        { "text": "Манифест 17 октября 1905 г.", "correct": true },
+        { "text": "Создание СССР", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло 3 ноября 1905 года (в отношении выкупных платежей)?",
+      "multiple": false,
+      "answers": [
+        { "text": "Указ об отмене выкупных платежей с 1907 г.", "correct": true },
+        { "text": "Создание Государственной думы", "correct": false },
+        { "text": "Кровавое воскресенье", "correct": false },
+        { "text": "Начало НЭПа", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1906 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Создание первой Государственной думы", "correct": true },
+        { "text": "Начало НЭПа", "correct": false },
+        { "text": "Столыпинская аграрная реформа", "correct": false },
+        { "text": "Первая мировая война", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое Столыпинская аграрная реформа и когда она проводилась?",
+      "multiple": false,
+      "answers": [
+        { "text": "Аграрная реформа 1906–1911 гг., направленная на укрепление частного землевладения", "correct": true },
+        { "text": "Реформа 1864 г.", "correct": false },
+        { "text": "Реформа 1928 г.", "correct": false },
+        { "text": "Реформа 1917 г.", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие годы охватывает Первая мировая война?",
+      "multiple": false,
+      "answers": [
+        { "text": "1914–1918 гг.", "correct": true },
+        { "text": "1939–1945 гг.", "correct": false },
+        { "text": "1904–1905 гг.", "correct": false },
+        { "text": "1812 г.", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие события произошли в феврале–марте 1917 года?",
+      "multiple": true,
+      "answers": [
+        { "text": "Февральская революция (23 февраля–3 марта 1917 г.)", "correct": true },
+        { "text": "Отречение Николая II (2 марта 1917 г.)", "correct": true },
+        { "text": "Двоевластие (совместное существование Временного правительства и Петроградского Совета)", "correct": true },
+        { "text": "Начало Гражданской войны", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1918–1920 годах в России?",
+      "multiple": false,
+      "answers": [
+        { "text": "Гражданская война", "correct": true },
+        { "text": "Первая мировая война", "correct": false },
+        { "text": "Вторая мировая война", "correct": false },
+        { "text": "Начало НЭПа", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в ночь с 16 на 17 июля 1918 года?",
+      "multiple": false,
+      "answers": [
+        { "text": "Расстрел царской семьи", "correct": true },
+        { "text": "Подписание Брестского мира", "correct": false },
+        { "text": "Начало НЭПа", "correct": false },
+        { "text": "Избрание Михаила Романова", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1921 году (политико-экономическое событие)?",
+      "multiple": true,
+      "answers": [
+        { "text": "10-й съезд РКП(б) и провозглашение НЭПа", "correct": true },
+        { "text": "Издание закона «О единстве партии»", "correct": true },
+        { "text": "Образование СССР", "correct": false },
+        { "text": "Начало первой пятилетки", "correct": false }
+      ]
+    },
+    {
+      "question": "Когда было образование СССР?",
+      "multiple": false,
+      "answers": [
+        { "text": "1922", "correct": true },
+        { "text": "1917", "correct": false },
+        { "text": "1939", "correct": false },
+        { "text": "1945", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1928 году?",
+      "multiple": true,
+      "answers": [
+        { "text": "Начало первой пятилетки", "correct": true },
+        { "text": "Индустриализация", "correct": true },
+        { "text": "Начало НЭПа", "correct": false },
+        { "text": "Образование СССР", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1932 году согласно хронологии?",
+      "multiple": false,
+      "answers": [
+        { "text": "Договор о ненападении с Польшей", "correct": true },
+        { "text": "Вступление в Лигу Наций", "correct": false },
+        { "text": "Начало Второй мировой войны", "correct": false },
+        { "text": "Создание НАТО", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1934 году согласно хронологии?",
+      "multiple": false,
+      "answers": [
+        { "text": "Вступление СССР в Лигу Наций", "correct": true },
+        { "text": "Начало Второй мировой войны", "correct": false },
+        { "text": "Создание ОВД", "correct": false },
+        { "text": "Провозглашение Петра I императором", "correct": false }
+      ]
+    },
+    {
+      "question": "Когда началась Вторая мировая война (в Европе)?",
+      "multiple": false,
+      "answers": [
+        { "text": "1 сентября 1939 г. (нападение Германии на Польшу)", "correct": true },
+        { "text": "22 июня 1941 г.", "correct": false },
+        { "text": "1914 г.", "correct": false },
+        { "text": "1932 г.", "correct": false }
+      ]
+    },
+    {
+      "question": "Когда началась Великая Отечественная война для СССР?",
+      "multiple": false,
+      "answers": [
+        { "text": "22 июня 1941 г.", "correct": true },
+        { "text": "1 сентября 1939 г.", "correct": false },
+        { "text": "9 мая 1945 г.", "correct": false },
+        { "text": "5 декабря 1941 г.", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие ключевые события Великой Отечественной войны указаны в хронологии?",
+      "multiple": true,
+      "answers": [
+        { "text": "Московская битва (30 сентября 1941 г. – 20 апреля 1942 г.)", "correct": true },
+        { "text": "Блокада Ленинграда (8 сентября 1941 г. – 27 января 1944 г.)", "correct": true },
+        { "text": "Сталинградская битва (17 июля 1942 – 2 февраля 1943 гг.)", "correct": true },
+        { "text": "Карибский кризис", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло 7 ноября 1941 года в Москве?",
+      "multiple": false,
+      "answers": [
+        { "text": "Парад в Москве", "correct": true },
+        { "text": "Подписание Акта о капитуляции", "correct": false },
+        { "text": "Потсдамская конференция", "correct": false },
+        { "text": "Нюрнбергский процесс", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло 5 декабря 1941 года?",
+      "multiple": false,
+      "answers": [
+        { "text": "Контрнаступление под Москвой", "correct": true },
+        { "text": "Парад в Москве", "correct": false },
+        { "text": "Поднятие Знамени Победы над Рейхстагом", "correct": false },
+        { "text": "Начало Курской битвы", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие события 1942–1943 гг. считаются переломными в ВОВ согласно хронологии?",
+      "multiple": true,
+      "answers": [
+        { "text": "Контрнаступление под Сталинградом (19 ноября 1942 г.)", "correct": true },
+        { "text": "Битва за Кавказ (1942–1943 гг.)", "correct": true },
+        { "text": "Курская битва (5 июля – 23 августа 1943 гг.)", "correct": true },
+        { "text": "Потсдамская конференция", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло 12 июля 1943 года?",
+      "multiple": false,
+      "answers": [
+        { "text": "Сражение под Прохоровкой (в рамках Курской битвы)", "correct": true },
+        { "text": "Поднятие Знамени Победы над Рейхстагом", "correct": false },
+        { "text": "Нюрнбергский процесс", "correct": false },
+        { "text": "Ялтинская конференция", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие международные конференции и процессы после 1943–1945 гг. указаны в хронологии?",
+      "multiple": true,
+      "answers": [
+        { "text": "Тегеранская конференция (ноябрь 1943 г.)", "correct": true },
+        { "text": "Ялтинская конференция (февраль 1945 г.)", "correct": true },
+        { "text": "Потсдамская конференция (лето 1945 г.)", "correct": true },
+        { "text": "Создание НАТО (1949 г.)", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло 1 мая 1945 года согласно хронологии?",
+      "multiple": false,
+      "answers": [
+        { "text": "Поднятие Знамени Победы над Рейхстагом (Егоров и Кантария)", "correct": true },
+        { "text": "Подписание Акта о капитуляции", "correct": false },
+        { "text": "Нюрнбергский процесс", "correct": false },
+        { "text": "Потсдамская конференция", "correct": false }
+      ]
+    },
+    {
+      "question": "Когда был подписан Акт о безоговорочной капитуляции Германии (в Европе)?",
+      "multiple": false,
+      "answers": [
+        { "text": "8 мая 1945 г. (9 мая по московскому времени)", "correct": true },
+        { "text": "1 мая 1945 г.", "correct": false },
+        { "text": "2 сентября 1945 г.", "correct": false },
+        { "text": "7 ноября 1941 г.", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие события 1945 года связаны с окончанием войны и послевоенным урегулированием?",
+      "multiple": true,
+      "answers": [
+        { "text": "Потсдамская конференция (лето 1945 г.)", "correct": true },
+        { "text": "Война с Японией (август 1945 г.)", "correct": true },
+        { "text": "Нюрнбергский процесс (1945–1946 гг.)", "correct": true },
+        { "text": "Создание ОВД (1955 г.)", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1946–1991(1992) гг. согласно хронологии?",
+      "multiple": false,
+      "answers": [
+        { "text": "Холодная война", "correct": true },
+        { "text": "Первая мировая война", "correct": false },
+        { "text": "Великая Отечественная война", "correct": false },
+        { "text": "НЭП", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1949 году согласно хронологии?",
+      "multiple": true,
+      "answers": [
+        { "text": "Создание СЭВ", "correct": true },
+        { "text": "Создание НАТО", "correct": true },
+        { "text": "Создание ОВД", "correct": false },
+        { "text": "Образование СССР", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1955 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Создание Организации Варшавского договора (ОВД)", "correct": true },
+        { "text": "Создание НАТО", "correct": false },
+        { "text": "Полет Гагарина", "correct": false },
+        { "text": "Карибский кризис", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1956 году (в хронологии указан ключевой съезд)?",
+      "multiple": false,
+      "answers": [
+        { "text": "20-й съезд КПСС", "correct": true },
+        { "text": "Полет Гагарина", "correct": false },
+        { "text": "Карибский кризис", "correct": false },
+        { "text": "Создание ОВД", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло 12 апреля 1961 года?",
+      "multiple": false,
+      "answers": [
+        { "text": "Полет Ю. А. Гагарина — первый полёт человека в космос", "correct": true },
+        { "text": "Карибский кризис", "correct": false },
+        { "text": "Создание ОВД", "correct": false },
+        { "text": "Начало НЭПа", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1962 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Карибский кризис", "correct": true },
+        { "text": "Полет Гагарина", "correct": false },
+        { "text": "Создание ОВД", "correct": false },
+        { "text": "Начало перестройки", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1977 году согласно хронологии?",
+      "multiple": false,
+      "answers": [
+        { "text": "Принята конституция «развитого социализма»", "correct": true },
+        { "text": "Начало НЭПа", "correct": false },
+        { "text": "Полет Гагарина", "correct": false },
+        { "text": "Создание НАТО", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие годы охватывают ввод и вывод войск в Афганистан согласно хронологии?",
+      "multiple": false,
+      "answers": [
+        { "text": "1979–1987 гг.", "correct": true },
+        { "text": "1941–1945 гг.", "correct": false },
+        { "text": "1961–1963 гг.", "correct": false },
+        { "text": "1991–1995 гг.", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1989 году согласно хронологии?",
+      "multiple": false,
+      "answers": [
+        { "text": "Созван 1-й Съезд народных депутатов СССР", "correct": true },
+        { "text": "Выборы президента РСФСР", "correct": false },
+        { "text": "Беловежские соглашения", "correct": false },
+        { "text": "Распад СССР", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло 12 июня 1991 года?",
+      "multiple": false,
+      "answers": [
+        { "text": "Выборы президента РСФСР (Ельцин)", "correct": true },
+        { "text": "Беловежские соглашения", "correct": false },
+        { "text": "Создание ОВД", "correct": false },
+        { "text": "Начало НЭПа", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло 17 марта 1991 года?",
+      "multiple": false,
+      "answers": [
+        { "text": "Всесоюзный референдум о сохранении СССР (за 76,4%)", "correct": true },
+        { "text": "Выборы президента РСФСР", "correct": false },
+        { "text": "Беловежские соглашения", "correct": false },
+        { "text": "Распад СССР", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло 8 декабря 1991 года?",
+      "multiple": false,
+      "answers": [
+        { "text": "Беловежские соглашения (подписание соглашения о прекращении деятельности СССР)", "correct": true },
+        { "text": "Выборы президента РСФСР", "correct": false },
+        { "text": "Создание НАТО", "correct": false },
+        { "text": "Начало НЭПа", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло 25 декабря 1991 года согласно хронологии?",
+      "multiple": false,
+      "answers": [
+        { "text": "Верховный Совет РСФСР утвердил название Российская Федерация; союзный флаг заменён российским", "correct": true },
+        { "text": "Выборы президента РСФСР", "correct": false },
+        { "text": "Создание ОВД", "correct": false },
+        { "text": "Начало НЭПа", "correct": false }
+      ]
+    },
+    {
+      "question": "Что означает термин «барщина»?",
+      "multiple": false,
+      "answers": [
+        { "text": "Даровой принудительный труд зависимого крестьянина в хозяйстве землевладельца", "correct": true },
+        { "text": "Денежный налог", "correct": false },
+        { "text": "Военная служба", "correct": false },
+        { "text": "Форма торговли", "correct": false }
+      ]
+    },
+    {
+      "question": "Что означает термин «оттепель» в советской истории?",
+      "multiple": false,
+      "answers": [
+        { "text": "Период либерализации после смерти Сталина до середины 1960-х гг.", "correct": true },
+        { "text": "Период индустриализации 1930-х гг.", "correct": false },
+        { "text": "Начало коллективизации", "correct": false },
+        { "text": "Период Смуты", "correct": false }
+      ]
+    },
+    {
+      "question": "Что означает термин «парад суверенитетов»?",
+      "multiple": false,
+      "answers": [
+        { "text": "Процесс принятия деклараций о государственном суверенитете республик и автономий в составе СССР и РСФСР", "correct": true },
+        { "text": "Военный парад в честь независимости", "correct": false },
+        { "text": "Экономическая реформа", "correct": false },
+        { "text": "Реформа образования", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое абсолютизм (самодержавие)?",
+      "multiple": false,
+      "answers": [
+        { "text": "Форма монархического правления, при которой монарх концентрирует в своих руках все ветви власти", "correct": true },
+        { "text": "Республика", "correct": false },
+        { "text": "Федерация", "correct": false },
+        { "text": "Парламентская монархия", "correct": false }
+      ]
+    },
+    {
+      "question": "Кто такие бандеровцы согласно словарю в документе?",
+      "multiple": false,
+      "answers": [
+        { "text": "Участники формирований УПА и собирательное наименование пособников нацизма из числа украинских националистов", "correct": true },
+        { "text": "Русские партизаны", "correct": false },
+        { "text": "Члены Совнаркома", "correct": false },
+        { "text": "Дворяне XVIII века", "correct": false }
+      ]
+    },
+    {
+      "question": "Кто такой баскак?",
+      "multiple": false,
+      "answers": [
+        { "text": "Представитель монгольского хана в покорённых землях, ведавший сбором дани", "correct": true },
+        { "text": "Русский воевода", "correct": false },
+        { "text": "Княжеский дружинник", "correct": false },
+        { "text": "Глава вече", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое вече?",
+      "multiple": false,
+      "answers": [
+        { "text": "Народное собрание в русских землях IX—XV вв.", "correct": true },
+        { "text": "Княжеская дружина", "correct": false },
+        { "text": "Военный союз", "correct": false },
+        { "text": "Форма налога", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое временное правительство (1917 г.)?",
+      "multiple": false,
+      "answers": [
+        { "text": "Высший исполнительно-распорядительный орган, образованный после падения монархии в марте 1917 г.", "correct": true },
+        { "text": "Совет министров Российской империи", "correct": false },
+        { "text": "Парламент Российской империи", "correct": false },
+        { "text": "Военный комитет", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое выкупные платежи в контексте реформы 1861 года?",
+      "multiple": false,
+      "answers": [
+        { "text": "Сумма, выплачиваемая крестьянами государству за надельную землю в ходе реформы 1861 г.", "correct": true },
+        { "text": "Налог на торговлю", "correct": false },
+        { "text": "Плата за военную службу", "correct": false },
+        { "text": "Плата за образование", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое двоевластие (1917 г.)?",
+      "multiple": false,
+      "answers": [
+        { "text": "Период, когда одновременно существовали два центра власти — Временное правительство и Петроградский Совет", "correct": true },
+        { "text": "Система двух монархов", "correct": false },
+        { "text": "Союз СССР и Китая", "correct": false },
+        { "text": "Разделение Руси", "correct": false }
+      ]
+    },
+    {
+      "question": "Кто такие декабристы?",
+      "multiple": false,
+      "answers": [
+        { "text": "Дворяне, участники восстания 1825 года", "correct": true },
+        { "text": "Участники революции 1905 года", "correct": false },
+        { "text": "Создатели СССР", "correct": false },
+        { "text": "Казаки времен Ивана Грозного", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое декрет о земле (1917 г.)?",
+      "multiple": false,
+      "answers": [
+        { "text": "Декрет, провозгласивший конфискацию помещичьих, церковных и монастырских земель и передачу их крестьянским комитетам", "correct": true },
+        { "text": "Декрет о мире", "correct": false },
+        { "text": "Декрет о создании Совнаркома", "correct": false },
+        { "text": "Декрет о продразверстке", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое НЭП?",
+      "multiple": false,
+      "answers": [
+        { "text": "Новая экономическая политика — экономическая политика 1921 г., использовавшая элементы рынка для оживления экономики", "correct": true },
+        { "text": "Военная организация", "correct": false },
+        { "text": "Политическая партия", "correct": false },
+        { "text": "Форма крепостного права", "correct": false }
+      ]
+    },
+    {
+      "question": "Кто такие нэпманы?",
+      "multiple": false,
+      "answers": [
+        { "text": "Частные предприниматели и торговцы периода НЭПа в 1920-е гг.", "correct": true },
+        { "text": "Члены Совнаркома", "correct": false },
+        { "text": "Рабочие заводов", "correct": false },
+        { "text": "Крестьяне-общинники", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое полюдье?",
+      "multiple": false,
+      "answers": [
+        { "text": "Ежегодный объезд князем и дружиной подвластного населения для сбора дани", "correct": true },
+        { "text": "Военный поход", "correct": false },
+        { "text": "Форма землевладения", "correct": false },
+        { "text": "Налог дворян", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое пятилетка в советской практике?",
+      "multiple": false,
+      "answers": [
+        { "text": "Пятилетний план развития экономики СССР", "correct": true },
+        { "text": "Военная операция", "correct": false },
+        { "text": "Форма налога", "correct": false },
+        { "text": "Тип выборов", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое Золотая Орда?",
+      "multiple": false,
+      "answers": [
+        { "text": "Государство, основанное ханом Батыем в начале 1240-х гг.", "correct": true },
+        { "text": "Союз русских княжеств", "correct": false },
+        { "text": "Орган власти СССР", "correct": false },
+        { "text": "Военный блок Европы", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое дружина?",
+      "multiple": false,
+      "answers": [
+        { "text": "Отряд воинов при князе", "correct": true },
+        { "text": "Крестьянская община", "correct": false },
+        { "text": "Налоговая система", "correct": false },
+        { "text": "Торговый союз", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое ярлык в монгольско-татарский период?",
+      "multiple": false,
+      "answers": [
+        { "text": "Грамота хана, выдававшаяся князьям на великое или удельное княжение", "correct": true },
+        { "text": "Налоговая реформа", "correct": false },
+        { "text": "Военный приказ", "correct": false },
+        { "text": "Закон СССР", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое семибоярщина?",
+      "multiple": false,
+      "answers": [
+        { "text": "Правительство Боярской думы из семи бояр, пришедшее к власти после свержения Василия Шуйского (1610 г.)", "correct": true },
+        { "text": "Система земского управления", "correct": false },
+        { "text": "Название ополчения", "correct": false },
+        { "text": "Реформа 1649 г.", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое славянофильство?",
+      "multiple": false,
+      "answers": [
+        { "text": "Литературно-философское течение, ориентированное на выявление самобытности России и её отличий от Запада", "correct": true },
+        { "text": "Политическое движение за западный путь развития", "correct": false },
+        { "text": "Экономическая реформа", "correct": false },
+        { "text": "Религиозная секта", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое совнархозы?",
+      "multiple": false,
+      "answers": [
+        { "text": "Органы территориального управления народным хозяйством в 1957–1965 гг.", "correct": true },
+        { "text": "Государственные сельскохозяйственные предприятия (совхозы)", "correct": false },
+        { "text": "Пятилетние планы", "correct": false },
+        { "text": "Органы местного самоуправления XIX в.", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое совхоз?",
+      "multiple": false,
+      "answers": [
+        { "text": "Государственное сельскохозяйственное предприятие в СССР", "correct": true },
+        { "text": "Частное фермерское хозяйство", "correct": false },
+        { "text": "Крестьянская община", "correct": false },
+        { "text": "Форма налога", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое Нюрнбергский процесс?",
+      "multiple": false,
+      "answers": [
+        { "text": "Судебные процессы над нацистскими лидерами после Второй мировой войны (1945–1946 гг.)", "correct": true },
+        { "text": "Международная конференция 1945 г.", "correct": false },
+        { "text": "Военная операция 1945 г.", "correct": false },
+        { "text": "Создание ООН", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое ООН?",
+      "multiple": false,
+      "answers": [
+        { "text": "Организация Объединённых Наций — международная организация для поддержания мира и безопасности", "correct": true },
+        { "text": "Военный блок Европы", "correct": false },
+        { "text": "Экономический союз", "correct": false },
+        { "text": "Союз социалистических республик", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое НАТО?",
+      "multiple": false,
+      "answers": [
+        { "text": "Организация Североатлантического договора — военно-политический блок, созданный в 1949 г.", "correct": true },
+        { "text": "Экономический союз", "correct": false },
+        { "text": "Организация Варшавского договора", "correct": false },
+        { "text": "Союз социалистических республик", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое ОВД (Организация Варшавского договора)?",
+      "multiple": false,
+      "answers": [
+        { "text": "Военный блок социалистических стран, созданный в 1955 г.", "correct": true },
+        { "text": "Экономический союз", "correct": false },
+        { "text": "Международная организация по правам человека", "correct": false },
+        { "text": "Политическая партия", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое \"кухаркины дети\" (циркуляр Делянова)?",
+      "multiple": false,
+      "answers": [
+        { "text": "Циркуляр, ограничивавший доступ детей из низших слоёв к образованию (термин — \"кухаркины дети\")", "correct": true },
+        { "text": "Реформа образования 1864 г.", "correct": false },
+        { "text": "Положение о вольных хлебопашцах", "correct": false },
+        { "text": "Закон о всеобщем образовании", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое Табель о рангах (1722 г.)?",
+      "multiple": false,
+      "answers": [
+        { "text": "Система рангов и служебного положения в Российской империи, введённая Петром I", "correct": true },
+        { "text": "Свод законов 1649 г.", "correct": false },
+        { "text": "Реформа образования", "correct": false },
+        { "text": "Военная реформа 1874 г.", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое Стоглавый собор (1551 г.)?",
+      "multiple": false,
+      "answers": [
+        { "text": "Церковный собор, принявший ряд решений по церковной дисциплине и обрядам", "correct": true },
+        { "text": "Государственный совет", "correct": false },
+        { "text": "Свод законов", "correct": false },
+        { "text": "Реформа образования", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1882 году?",
+      "multiple": false,
+      "answers": [
+        { "text": "Создание Тройственного союза (Германия, Австрия, Италия)", "correct": true },
+        { "text": "Создание НАТО", "correct": false },
+        { "text": "Создание ОВД", "correct": false },
+        { "text": "Русско-турецкая война", "correct": false }
+      ]
+    },
+    {
+      "question": "Когда произошло нападение японцев на Порт-Артур?",
+      "multiple": false,
+      "answers": [
+        { "text": "27 января 1904 г.", "correct": true },
+        { "text": "1 сентября 1939 г.", "correct": false },
+        { "text": "22 июня 1941 г.", "correct": false },
+        { "text": "9 января 1905 г.", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло 28 июля 1942 года?",
+      "multiple": false,
+      "answers": [
+        { "text": "Издан приказ № 227 «Ни шагу назад» (о штрафбатах и заградотрядах)", "correct": true },
+        { "text": "Начало Сталинградской битвы", "correct": false },
+        { "text": "Контрнаступление под Москвой", "correct": false },
+        { "text": "Битва на Калке", "correct": false }
+      ]
+    },
+    {
+      "question": "Когда началось контрнаступление советских войск под Сталинградом?",
+      "multiple": false,
+      "answers": [
+        { "text": "19 ноября 1942 г.", "correct": true },
+        { "text": "5 декабря 1941 г.", "correct": false },
+        { "text": "12 июля 1943 г.", "correct": false },
+        { "text": "9 мая 1945 г.", "correct": false }
+      ]
+    },
+    {
+      "question": "Какой период считается коренным переломом в Великой Отечественной войне?",
+      "multiple": false,
+      "answers": [
+        { "text": "19 ноября 1942 г. – конец 1943 г.", "correct": true },
+        { "text": "1941–1942 гг.", "correct": false },
+        { "text": "1944–1945 гг.", "correct": false },
+        { "text": "1939–1940 гг.", "correct": false }
+      ]
+    },
+    {
+      "question": "Когда проходила Берлинская операция?",
+      "multiple": false,
+      "answers": [
+        { "text": "16 апреля – 8 мая 1945 г.", "correct": true },
+        { "text": "Февраль – март 1945 г.", "correct": false },
+        { "text": "Июнь – июль 1944 г.", "correct": false },
+        { "text": "Ноябрь – декабрь 1943 г.", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие события 1945 года связаны с войной против Японии?",
+      "multiple": false,
+      "answers": [
+        { "text": "Война с Японией (8 августа – 2 сентября 1945 г.)", "correct": true },
+        { "text": "Война с Японией в 1904–1905 гг.", "correct": false },
+        { "text": "Русско-японская война 1904 г.", "correct": false },
+        { "text": "Ялтинская конференция", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1946 году?",
+      "multiple": true,
+      "answers": [
+        { "text": "СНК был преобразован в Совет Министров", "correct": true },
+        { "text": "Начало холодной войны", "correct": false },
+        { "text": "Создание НАТО", "correct": false },
+        { "text": "Создание ОВД", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие события произошли в 1947 году?",
+      "multiple": true,
+      "answers": [
+        { "text": "Отмена карточной системы", "correct": true },
+        { "text": "Денежная реформа", "correct": true },
+        { "text": "Создание НАТО", "correct": false },
+        { "text": "Создание ОВД", "correct": false }
+      ]
+    },
+    {
+      "question": "Какие годы охватывает 4-я пятилетка (восстановление экономики)?",
+      "multiple": false,
+      "answers": [
+        { "text": "1946–1950 гг.", "correct": true },
+        { "text": "1941–1945 гг.", "correct": false },
+        { "text": "1951–1955 гг.", "correct": false },
+        { "text": "1928–1932 гг.", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1961 году (международные события)?",
+      "multiple": true,
+      "answers": [
+        { "text": "Возведена Берлинская стена", "correct": true },
+        { "text": "XXII съезд КПСС (построение коммунизма за 20 лет)", "correct": true },
+        { "text": "Полет Гагарина", "correct": false },
+        { "text": "Карибский кризис", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло в 1990 году согласно хронологии?",
+      "multiple": false,
+      "answers": [
+        { "text": "Появление должности президента СССР", "correct": true },
+        { "text": "Выборы президента РСФСР", "correct": false },
+        { "text": "Беловежские соглашения", "correct": false },
+        { "text": "Распад СССР", "correct": false }
+      ]
+    },
+    {
+      "question": "Что произошло 23 декабря 1991 года?",
+      "multiple": false,
+      "answers": [
+        { "text": "Совещание Горбачева и Ельцина о прекращении деятельности союзных структур", "correct": true },
+        { "text": "Беловежские соглашения", "correct": false },
+        { "text": "Выборы президента РСФСР", "correct": false },
+        { "text": "Всесоюзный референдум", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое Декрет о мире (1917 г.)?",
+      "multiple": false,
+      "answers": [
+        { "text": "Декрет, содержавший призыв к правительствам и народам воюющих стран начать переговоры о мире", "correct": true },
+        { "text": "Декрет о передаче земли крестьянам", "correct": false },
+        { "text": "Декрет о создании Красной Армии", "correct": false },
+        { "text": "Декрет о продразверстке", "correct": false }
+      ]
+    },
+    {
+      "question": "Кто такой закуп на Руси?",
+      "multiple": false,
+      "answers": [
+        { "text": "Человек, работавший в хозяйстве землевладельца за купу (займ)", "correct": true },
+        { "text": "Княжеский дружинник", "correct": false },
+        { "text": "Представитель ордынского хана", "correct": false },
+        { "text": "Глава вече", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое дворцовый переворот?",
+      "multiple": false,
+      "answers": [
+        { "text": "Насильственное взятие верховной власти с использованием военной силы в результате заговора", "correct": true },
+        { "text": "Реформа государственного аппарата", "correct": false },
+        { "text": "Военный поход", "correct": false },
+        { "text": "Созыв Земского собора", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое местничество?",
+      "multiple": false,
+      "answers": [
+        { "text": "Система распределения служебных должностей с учётом происхождения и служебного положения предков (с XV в.)", "correct": true },
+        { "text": "Система местного управления", "correct": false },
+        { "text": "Налоговая система", "correct": false },
+        { "text": "Военная организация", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое революция?",
+      "multiple": false,
+      "answers": [
+        { "text": "Радикальное, коренное, качественное изменение; скачок в развитии общества с разрывом с предыдущим состоянием", "correct": true },
+        { "text": "Постепенная реформа", "correct": false },
+        { "text": "Военный переворот", "correct": false },
+        { "text": "Изменение конституции", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое секуляризация?",
+      "multiple": false,
+      "answers": [
+        { "text": "Обращение государством церковной собственности в светскую; освобождение от принадлежности к церкви", "correct": true },
+        { "text": "Национализация земель", "correct": false },
+        { "text": "Реформа образования", "correct": false },
+        { "text": "Церковный собор", "correct": false }
+      ]
+    },
+    {
+      "question": "Кто такие смерды?",
+      "multiple": false,
+      "answers": [
+        { "text": "Категория населения на Руси IX—XIV вв., земледельцы, изначально свободные, затем закрепощаемые", "correct": true },
+        { "text": "Княжеские дружинники", "correct": false },
+        { "text": "Ордынские сборщики дани", "correct": false },
+        { "text": "Городские ремесленники", "correct": false }
+      ]
+    },
+    {
+      "question": "Что означает аббревиатура СССР?",
+      "multiple": false,
+      "answers": [
+        { "text": "Союз Советских Социалистических Республик", "correct": true },
+        { "text": "Социалистическая Система Советских Республик", "correct": false },
+        { "text": "Союз Славянских Советских Республик", "correct": false },
+        { "text": "Советская Система Социальных Республик", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое Съезд народных депутатов СССР?",
+      "multiple": false,
+      "answers": [
+        { "text": "Высший орган государственной власти СССР в 1989–1991 гг., учреждённый в рамках конституционной реформы 1988 г.", "correct": true },
+        { "text": "Орган местного самоуправления", "correct": false },
+        { "text": "Парламент Российской империи", "correct": false },
+        { "text": "Совет министров СССР", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое Холокост?",
+      "multiple": false,
+      "answers": [
+        { "text": "Целенаправленная политика нацистов по уничтожению евреев, в результате которой погибло около 6 млн человек", "correct": true },
+        { "text": "Военная операция 1945 г.", "correct": false },
+        { "text": "Международная конференция", "correct": false },
+        { "text": "Договор между СССР и Германией", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое западничество?",
+      "multiple": false,
+      "answers": [
+        { "text": "Направление общественной мысли 1830–1850-х гг., выступавшее за развитие России по западноевропейскому пути", "correct": true },
+        { "text": "Движение за самобытность России", "correct": false },
+        { "text": "Политическая партия", "correct": false },
+        { "text": "Экономическая реформа", "correct": false }
+      ]
+    },
+    {
+      "question": "Что такое Земские соборы?",
+      "multiple": false,
+      "answers": [
+        { "text": "Высшие сословно-представительные учреждения в России в середине XVI — середине XVII в.", "correct": true },
+        { "text": "Органы местного самоуправления", "correct": false },
+        { "text": "Церковные соборы", "correct": false },
+        { "text": "Военные советы", "correct": false }
+      ]
+    },
+		{
+		"question": "Что произошло в 1653 году?",
+		"multiple": false,
+		"answers": [
+			{ "text": "Земский собор, принятие Украины", "correct": true },
+			{ "text": "Соборное уложение", "correct": false },
+			{ "text": "Начало Северной войны", "correct": false },
+			{ "text": "Провозглашение Петра I императором", "correct": false }
+		]
+		},
+		{
+		"question": "Что произошло в марте 1921 года?",
+		"multiple": false,
+		"answers": [
+			{ "text": "Начало НЭПа и введение продналога", "correct": true },
+			{ "text": "Образование СССР", "correct": false },
+			{ "text": "Начало первой пятилетки", "correct": false },
+			{ "text": "Подписание Брестского мира", "correct": false }
+		]
+		}
+  ]
+}

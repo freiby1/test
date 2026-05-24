@@ -1416,10 +1416,14 @@
           
           // Для каждого вопроса перемешиваем варианты ответов
           return shuffledQuestions.map(question => {
+            // Определяем множественный это выбор или нет
+            const isMultipleChoice = question.isMultipleChoice || 
+              (Array.isArray(question.correctAnswer) && question.correctAnswer.length > 1);
+            
             // Создаем массив с индексами и текстами ответов
             const optionsWithIndices = question.options.map((text, index) => ({
               text: text,
-              isCorrect: question.isMultipleChoice 
+              isCorrect: isMultipleChoice
                 ? Array.isArray(question.correctAnswer) && question.correctAnswer.includes(index)
                 : question.correctAnswer === index,
               originalIndex: index
@@ -1430,13 +1434,14 @@
             
             // Находим новые индексы правильных ответов
             const newCorrectAnswers = [];
+            let singleCorrectIndex = null;
+            
             shuffledOptions.forEach((option, newIndex) => {
               if (option.isCorrect) {
-                if (question.isMultipleChoice) {
+                if (isMultipleChoice) {
                   newCorrectAnswers.push(newIndex);
                 } else {
-                  // Для одиночного выбора сразу возвращаем индекс
-                  return newIndex;
+                  singleCorrectIndex = newIndex;
                 }
               }
             });
@@ -1445,7 +1450,8 @@
             return {
               ...question,
               options: shuffledOptions.map(o => o.text),
-              correctAnswer: question.isMultipleChoice ? newCorrectAnswers : (newCorrectAnswers[0] || 0)
+              correctAnswer: isMultipleChoice ? newCorrectAnswers : (singleCorrectIndex ?? 0),
+              isMultipleChoice: isMultipleChoice
             };
           });
         }

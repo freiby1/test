@@ -1483,7 +1483,6 @@
         }
         
         // Собираем данные вопросов
-        const questions = [];
         const questionForms = document.querySelectorAll('.question-builder');
         
         if (questionForms.length === 0) {
@@ -1498,6 +1497,60 @@
         // Создаем новый тест в базе данных
         const newTestRef = push(ref(db, 'tests'));
         const testId = newTestRef.key;
+        
+        // Функция перемешивания массива (Fisher-Yates)
+        function shuffleArray(array) {
+          const shuffled = [...array];
+          for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+          }
+          return shuffled;
+        }
+        
+        // Функция перемешивания вопросов и вариантов ответов
+        function shuffleQuestionsAndAnswers(questionsData) {
+          // Сначала перемешиваем вопросы
+          const shuffledQuestions = shuffleArray(questionsData);
+          
+          // Для каждого вопроса перемешиваем варианты ответов
+          return shuffledQuestions.map(question => {
+            // Создаем массив с индексами и текстами ответов
+            const optionsWithIndices = question.options.map((text, index) => ({
+              text: text,
+              isCorrect: question.isMultipleChoice 
+                ? Array.isArray(question.correctAnswer) && question.correctAnswer.includes(index)
+                : question.correctAnswer === index,
+              originalIndex: index
+            }));
+            
+            // Перемешиваем варианты ответов
+            const shuffledOptions = shuffleArray(optionsWithIndices);
+            
+            // Находим новые индексы правильных ответов
+            const newCorrectAnswers = [];
+            shuffledOptions.forEach((option, newIndex) => {
+              if (option.isCorrect) {
+                if (question.isMultipleChoice) {
+                  newCorrectAnswers.push(newIndex);
+                } else {
+                  // Для одиночного выбора сразу возвращаем индекс
+                  return newIndex;
+                }
+              }
+            });
+            
+            // Возвращаем перемешанный вопрос
+            return {
+              ...question,
+              options: shuffledOptions.map(o => o.text),
+              correctAnswer: question.isMultipleChoice ? newCorrectAnswers : (newCorrectAnswers[0] || 0)
+            };
+          });
+        }
+        
+        // Перемешиваем вопросы и варианты ответов
+        const shuffledQuestionsData = [];
         
         // Обрабатываем вопросы и загружаем их изображения
         for (let i = 0; i < questionForms.length; i++) {
@@ -1544,19 +1597,41 @@
           // Получаем данные изображений для этого вопроса
           const questionData = getQuestionData(i);
           
-          // Upload question image using Cloudinary
+          // Добавляем информацию об изображениях в вопрос
           if (questionData && questionData.image) {
-            const result = await uploadImage(questionData.image);
+            question.pendingImage = questionData.image;
+          }
+          
+          if (questionData && questionData.answerImages && Object.keys(questionData.answerImages).length > 0) {
+            question.pendingAnswerImages = questionData.answerImages;
+          }
+          
+          shuffledQuestionsData.push(question);
+        }
+        
+        // Перемешиваем вопросы и варианты ответов
+        const shuffledQuestions = shuffleQuestionsAndAnswers(shuffledQuestionsData);
+        
+        // Теперь загружаем изображения для перемешанных вопросов
+        const questions = [];
+        for (let i = 0; i < shuffledQuestions.length; i++) {
+          const question = shuffledQuestions[i];
+          
+          // Upload question image using Cloudinary
+          if (question.pendingImage) {
+            const result = await uploadImage(question.pendingImage);
             question.imageURL = result.secure_url;
+            delete question.pendingImage;
           }
           
           // Upload answer option images using Cloudinary
-          if (questionData && questionData.answerImages && Object.keys(questionData.answerImages).length > 0) {
+          if (question.pendingAnswerImages && Object.keys(question.pendingAnswerImages).length > 0) {
             question.optionImages = [];
-            for (const [optionIndex, imageFile] of Object.entries(questionData.answerImages)) {
+            for (const [optionIndex, imageFile] of Object.entries(question.pendingAnswerImages)) {
               const result = await uploadImage(imageFile);
               question.optionImages[optionIndex] = result.secure_url;
             }
+            delete question.pendingAnswerImages;
           }
           
           questions.push(question);

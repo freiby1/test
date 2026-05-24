@@ -1399,6 +1399,57 @@
         // Собираем данные вопросов из DOM
         const questionBuilders = document.querySelectorAll('.question-builder');
         
+        // Функция перемешивания массива (Fisher-Yates)
+        function shuffleArray(array) {
+          const shuffled = [...array];
+          for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+          }
+          return shuffled;
+        }
+        
+        // Функция перемешивания вопросов и вариантов ответов
+        function shuffleQuestionsAndAnswers(questionsData) {
+          // Сначала перемешиваем вопросы
+          const shuffledQuestions = shuffleArray(questionsData);
+          
+          // Для каждого вопроса перемешиваем варианты ответов
+          return shuffledQuestions.map(question => {
+            // Создаем массив с индексами и текстами ответов
+            const optionsWithIndices = question.options.map((text, index) => ({
+              text: text,
+              isCorrect: question.isMultipleChoice 
+                ? Array.isArray(question.correctAnswer) && question.correctAnswer.includes(index)
+                : question.correctAnswer === index,
+              originalIndex: index
+            }));
+            
+            // Перемешиваем варианты ответов
+            const shuffledOptions = shuffleArray(optionsWithIndices);
+            
+            // Находим новые индексы правильных ответов
+            const newCorrectAnswers = [];
+            shuffledOptions.forEach((option, newIndex) => {
+              if (option.isCorrect) {
+                if (question.isMultipleChoice) {
+                  newCorrectAnswers.push(newIndex);
+                } else {
+                  // Для одиночного выбора сразу возвращаем индекс
+                  return newIndex;
+                }
+              }
+            });
+            
+            // Возвращаем перемешанный вопрос
+            return {
+              ...question,
+              options: shuffledOptions.map(o => o.text),
+              correctAnswer: question.isMultipleChoice ? newCorrectAnswers : (newCorrectAnswers[0] || 0)
+            };
+          });
+        }
+        
         // Обновляем тексты вариантов ответов перед сохранением
         for (let index = 0; index < questionBuilders.length; index++) {
           const answerInputs = questionBuilders[index].querySelectorAll('.answer-text-input');
@@ -1506,6 +1557,9 @@
           updatedQuestions.push(updatedQuestion);
         }
         
+        // Перемешиваем вопросы и варианты ответов
+        const shuffledQuestions = shuffleQuestionsAndAnswers(updatedQuestions);
+        
         // Обновляем данные теста
         const updatedData = {
           title: testTitle,
@@ -1513,7 +1567,7 @@
           cooperativeMode: cooperativeMode,
           showCorrectAnswers: showCorrectAnswers,
           timeLimit: timeLimit,
-          questions: updatedQuestions,
+          questions: shuffledQuestions,
           category: testCategory,
           lastEditedAt: Date.now()
         };
